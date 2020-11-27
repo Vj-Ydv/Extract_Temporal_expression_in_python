@@ -1,0 +1,8 @@
+1. Open the ".ipynb" using juputer notebook.
+2. Run the program.
+3. Enter the text.
+4. Observe the output in two different forms.
+
+Thank you.
+
+Vijay Yadav (076MSCSK020)
